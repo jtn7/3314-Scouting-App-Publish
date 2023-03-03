@@ -1,13 +1,13 @@
 const cachedFiles = [
-	'/',
-	'/assets/index.js',
-	'/assets/index.css',
-	'/assets/MaterialIcons-Regular.676a4c01.ttf',
-	'/assets/MaterialIcons-Regular.732ede8a.woff2',
-	'/assets/MaterialIcons-Regular.e09b6d7f.woff',
-	'/img/logo-192.png',
-	'/img/logo-256.png',
-	'/manifest.json'
+	'./',
+	'./assets/index.js',
+	'./assets/index.css',
+	'./assets/MaterialIcons-Regular.676a4c01.ttf',
+	'./assets/MaterialIcons-Regular.732ede8a.woff2',
+	'./assets/MaterialIcons-Regular.e09b6d7f.woff',
+	'./img/logo-192.png',
+	'./img/logo-256.png',
+	'./manifest.json'
 ]
 
 self.addEventListener("install", e => {
